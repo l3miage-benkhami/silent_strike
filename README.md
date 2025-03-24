@@ -1,1 +1,1 @@
-Game video project for university.
+Video game project for university.
